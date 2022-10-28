@@ -4,7 +4,7 @@ This project draws circles when you click on the screen that grow and eventually
 
 ## Installing requirements
 ```
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 ## Running the project
